@@ -1,0 +1,7 @@
+env/
+
+*.sw[op]
+
+gedfaces/
+orl_faces/
+other_faces/
